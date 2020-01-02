@@ -6,7 +6,7 @@
   "nativePackage": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/williamtran29/react-native-ibeacon-simulator.git"
+    "url": "git+https://github.com/martinCouso/react-native-ibeacon-simulator.git"
   },
   "keywords": [
     "react-native",
@@ -15,5 +15,6 @@
     "ibeacon",
     "beacon simulator"
   ],
+  "homepage": "https://github.com/martinCouso/react-native-ibeacon-simulator#readme",
   "license": "MIT"
 }
